@@ -1,1 +1,12 @@
+   tele_ids_owner: [
+        { id: "7510180120", whatsapp: "6285156119027" }
+    ],
 
+    tele_ids_helper: [
+        { id: "0000000000", whatsapp: "62" }
+    ],
+
+    tele_ids_customer: [
+        { id: "0000000", whatsapp: "62" }
+    ]
+};
