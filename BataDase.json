@@ -1,6 +1,7 @@
-- Database#2
-- Purpose: Secure private key storage (encrypted)
-- Encryption: AES-256
-- Last updated: 2025-10-20
-
-U2FsdGVkX1+f1h2Q3JmVnZpR0ZsY0xqY1pYQk1qV1pVZ1JhT0I9PQ==
+{
+  "last_updated": "2025-10-20",
+  "encryption_format": "AES-256",
+  "encrypted_key": "U2FsdGVkX1+f1h2Q3JmVnZpR0ZsY0xqY1pYQk1qV1pVZ1JhT0I9PQ==",
+  "owner": "Della",
+  "note": "Gabut Kak"
+}
